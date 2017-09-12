@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+## Welcome to My Fab Experience
 
-You can use the [editor on GitHub](https://github.com/suranyak/suranyak.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A fab lab (fabrication laboratory) is a small-scale workshop offering (personal) digital fabrication.A fab lab is typically equipped with an array of flexible computer-controlled tools that cover several different length scales and various materials, with the aim to make “almost anything”. This includes technology-enabled products generally perceived as limited to mass production.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Syllabus
 
-### Markdown
+- Day 1 : Introduction to Fablab
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Day 2 : Github Pages and Documentation
 
-```markdown
-Syntax highlighted code block
+- Day 3: Electronics Production and CNC
 
-# Header 1
-## Header 2
-### Header 3
+- Day 4 : Vinyl Cutting
 
-- Bulleted
-- List
+- Day 5 : Screen Printing
 
-1. Numbered
-2. List
+- Day 6 : 3D Printing
 
-**Bold** and _Italic_ and `Code` text
+- Day 7 : Laser Cutting,Moulding and Casting
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ ### 3D Printer
+ 
+   - <img src="31.jpg">
+   
+   - <img src="32.jpg">
 
-### Jekyll Themes
+   - <img src="33.jpg">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suranyak/suranyak.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Vinyl Cutter
+ 
+   - <img src="v1.jpg">
+   
+   - <img src="v2.jpg">
+   
+   - <img src="v3.jpg">
 
-### Support or Contact
+### Electronics Production
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+   - <img src="e1.jpg">
+   
+   - <img src="e2.jpg">
+   
+   - <img src="e3.jpg">
+   
+   - <img src="e4.jpg">
+   
+   - <img src="e5.jpg">
+   
+   - <img src="e6.jpg">
+
+
+
+## About Me
+
+ Pursuing Bachelor of technology in Electronics and Communication Engineering from MES College of Engineering, Kuttippuram.
+
+
+
+
